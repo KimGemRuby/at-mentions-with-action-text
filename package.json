@@ -15,7 +15,7 @@
     "popper.js": "^1.14.7",
     "stimulus": "^1.1.1",
     "tributejs": "^3.6.0",
-    "trix": "^1.0.0",
+    "trix": "^2.1.18",
     "turbolinks": "^5.2.0"
   },
   "version": "0.1.0",
